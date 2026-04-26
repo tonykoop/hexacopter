@@ -2,8 +2,7 @@
 
 > *I was one of the first hobby DJI Phantom owners. I got beautiful aerial skyline photos. I lost the drone to a fly-away during a demo at Bracketron. The community rebuilt me through a fully-funded Kickstarter. The replacement is a six-rotor DSLR-lift platform with a 3D-printed gimbal — fully assembled but not yet flown, because I lacked confidence in the speed-controller and flight-controller programming. This repository is what I have written down.*
 
-![Hero photo](images/00-hero-hexacopter.jpg)
-*(placeholder — hero photo forthcoming, candidates: a finished-build photo of the hexacopter on the bench, a Phantom-era skyline aerial, or a CAD render of the gimbal)*
+*Hero photo forthcoming: strongest candidates are a finished-build photo of the hexacopter on the bench, a Phantom-era skyline aerial, or a CAD render of the gimbal.*
 
 ## What this is
 
