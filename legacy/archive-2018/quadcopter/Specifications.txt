@@ -1,0 +1,11 @@
+Dimensions*:		165 x 165 x 52 mm
+Weight**:		200 gr
+Battery:		2S 850mAh
+Motor size:		18  x11 - 2000kv
+Prop size:		5”
+Control board size:	50 x 50 mm
+Control board mounting:	4x M3 (44 x 44 mm)
+Flyingtime:		+- 6min
+
+* without propellers
+** excluding battery 
