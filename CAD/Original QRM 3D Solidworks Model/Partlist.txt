@@ -1,0 +1,6 @@
+Motor: 		18-11 2000kv Micro Brushless Outrunner (10g)
+ESC: 		H-KING 10A Fixed Wing Brushless Speed Controller
+Props: 		5x3 Propellers (Standard and Counter Rotating) (6pc)
+Prop adaptors: 	Prop adapter w/ Alu Cone M5x2mm shaft (Grub Screw Type)
+Battery: 	Turnigy nano-tech 850mah 2S 25~40C Lipo Pack
+Control board: 	HobbyKing Quadcopter Control Board V2.1 (Atmega168PA)
