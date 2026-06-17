@@ -2,7 +2,9 @@
 
 > *I was one of the first hobby DJI Phantom owners. I got beautiful aerial skyline photos — 10 of which were later juried into the permanent collection of the University of Minnesota Ambulatory Care Center through Art Force. I lost the Phantom to a fly-away during a demo at Bracketron. The community rebuilt me through a Kickstarter funded at 168% of goal by 94 backers. The replacement is a six-rotor DSLR-lift platform with a 3D-printed gimbal that I intentionally kept grounded until the flight-control stack could be validated. This repository is the engineering record of that build.*
 
-*Hero photo forthcoming: strongest candidates are a finished-build photo of the hexacopter on the bench, a Phantom-era skyline aerial, or a CAD render of the gimbal.*
+![Phantom-era Minneapolis aerial skyline photographs printed as canvas wraps, laid out on a wood table](images/Slide_photography.jpg)
+
+*Phantom-era Minneapolis aerials, printed as canvas wraps — the body of work the Kickstarter backers funded a more capable platform to extend.*
 
 ## What this is
 
@@ -15,6 +17,10 @@ The build is currently at my parents' house, intact, ready to be picked up again
 ### Phantom era — early adopter, beautiful aerials
 
 I was one of the first hobby owners of the **DJI Phantom** when it launched in 2013. I got a string of beautiful aerial skyline photos that, for a brief moment before consumer drones became ubiquitous, felt like access to a perspective hardly anyone else had.
+
+![Aerial photograph of the Grain Belt Beer sign and the Hennepin Avenue Bridge over the Mississippi River, printed as a signed canvas wrap](images/aerialphoto5.jpg)
+
+*A Phantom-era aerial — the Grain Belt Beer sign and the Hennepin Avenue Bridge over the Mississippi — printed as a signed canvas wrap.*
 
 ### Aerial work juried into a healthcare-facility installation
 
@@ -37,6 +43,10 @@ With the funds I:
 - designed and **3D-printed a custom gimbal** for the DSLR payload
 - mechanically assembled the airframe, gimbal, and electronics
 - wired the power distribution, signal lines, and telemetry
+
+![Four carbon-fiber motor arms with brushless motors and ESCs, laid out beside a digital caliper and steel rule](images/ADK_4465.JPG)
+
+*Carbon-fiber motor arms with their brushless motors and ESCs, checked against a digital caliper and steel rule — component verification from the build.*
 
 **Rewards delivered:** signed aerial prints (8″×10″, 11″×14″, 12″×18″), canvas wraps, and the bill-of-materials / build-log document.
 
