@@ -1,6 +1,6 @@
 # Hexacopter — Systems Integration for a Deliberately Grounded Aerial Platform
 
-> *I was one of the first hobby DJI Phantom owners. I got beautiful aerial skyline photos — 10 of which were later juried into the permanent collection of the University of Minnesota Ambulatory Care Center through Art Force. I lost the Phantom to a fly-away during a demo at Bracketron. The community rebuilt me through a Kickstarter funded at 168% of goal by 94 backers. The replacement is a six-rotor DSLR-lift platform with a 3D-printed gimbal that I intentionally kept grounded until the flight-control stack could be validated. This repository is the engineering record of that build — and a record of an outstanding promise to top-tier backers whose aerial photo shoots are still owed.*
+> *I was one of the first hobby DJI Phantom owners. I got beautiful aerial skyline photos — 10 of which were later juried into the permanent collection of the University of Minnesota Ambulatory Care Center through Art Force. I lost the Phantom to a fly-away during a demo at Bracketron. The community rebuilt me through a Kickstarter funded at 168% of goal by 94 backers. The replacement is a six-rotor DSLR-lift platform with a 3D-printed gimbal that I intentionally kept grounded until the flight-control stack could be validated. This repository is the engineering record of that build.*
 
 *Hero photo forthcoming: strongest candidates are a finished-build photo of the hexacopter on the bench, a Phantom-era skyline aerial, or a CAD render of the gimbal.*
 
@@ -40,7 +40,7 @@ With the funds I:
 
 **Rewards delivered:** signed aerial prints (8″×10″, 11″×14″, 12″×18″), canvas wraps, and the bill-of-materials / build-log document.
 
-**Reward still outstanding:** the top-tier backer reward was an aerial photo or video shoot at a time and place of the backer's choosing, anywhere within 250 miles of Minneapolis. Because the hexacopter never had its maiden flight, the top-tier backers have not received their shoots. This is an open commitment, and finishing the firmware-validation work captured later in this repository is the path back to fulfilling it. The build is paused, not closed.
+**Reward still outstanding:** The top-tier backer reward — an aerial photo/video shoot within 250 miles of Minneapolis — was never delivered, because the platform never had its maiden flight. The build is paused, not closed.
 
 ### The decision to keep it grounded
 
@@ -50,9 +50,9 @@ So I kept it grounded. The hexacopter went into storage at my parents' house and
 
 The engineering judgment I have made peace with is simple: **keeping it grounded was the right call at the time.** Hobby drone crashes from misconfigured firmware are common, and this build deserved a stronger validation chain than I had in hand. The good news is that the project is resumable rather than lost; the documentation ecosystem around platforms like ArduPilot, PX4, simulators, and safer bench-testing workflows is much better now than it was when I first built it.
 
-## Why an unfinished build with an outstanding obligation still belongs in the portfolio
+## Why an unfinished build still belongs in the portfolio
 
-The value here is not "I launched it." The value is in three things together:
+The value here is not "I launched it." The value is in two things together:
 
 **1. The documented systems work that did happen.**
 - **Bill of materials** — a complete, sourced, costed component list for a DSLR-lifting hexacopter
@@ -65,10 +65,7 @@ The value here is not "I launched it." The value is in three things together:
 **2. The decision to stop before flying.**
 A maiden flight on an unvalidated stack carrying a crowdfunded airframe was a bad risk. The same judgment that says "do not fly this yet" is the judgment a UAV company wants in someone touching their hardware. Hobby drone crashes are common; this one didn't crash because I chose not to put it in the air.
 
-**3. The open promise.**
-There are top-tier backers who paid for aerial photo shoots in 2014 and have not received them. That promise still exists. It is one of the reasons this build is paused, not abandoned, and one of the reasons the firmware-validation plan in this repo matters — completing those shoots is what closing the loop on this project looks like.
-
-A senior R&D engineer reading this should see: *here is someone who took on a multi-disciplinary integration project, carried the mechanical and electrical work to assembly, recognized when the validation gate for safe execution had not been met, kept the platform grounded rather than bluffing past that limit, and is on record about the unfinished obligation rather than pretending the project is closed.* That is the signal this repo is meant to carry.
+A senior R&D engineer reading this should see: *here is someone who took on a multi-disciplinary integration project, carried the mechanical and electrical work to assembly, recognized when the validation gate for safe execution had not been met, and kept the platform grounded rather than bluffing past that limit.* That is the signal this repo is meant to carry.
 
 ## Engineering content (forthcoming)
 
