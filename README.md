@@ -79,20 +79,20 @@ A senior R&D engineer reading this should see: *here is someone who took on a mu
 
 ## Engineering content (forthcoming)
 
-Material exists in personal archives and at my parents' house; it will be added as recovered. The current repo is README + LICENSE only.
+Material exists in personal archives and at my parents' house; it will be added as recovered. README, license, and an initial set of photos are in; the engineering documents are being recovered from archives.
 
 | Section | Status |
 |---|---|
 | Repo description, license | ✓ done |
 | Story arc + framing | ✓ this README |
-| Phantom-era aerial photos | forthcoming — hero candidate |
+| Phantom-era aerial photos | ✓ done — hero + in-page aerial added |
 | Selected Art Force / U of M Ambulatory Care Center pieces | forthcoming — selection of the 10 aerial images installed |
 | Bill of materials | forthcoming — exists in engineering notebook |
 | Mechanical design — frame + motor sizing | forthcoming |
 | 3D-printed gimbal CAD + photos | forthcoming |
 | Electronics architecture diagram | forthcoming |
 | Sketchbook + engineering-notebook scans | forthcoming (parents' house archives) — June 2013 quad/hex/octocopter clearance derivations are top priority |
-| Build photos | forthcoming |
+| Build photos | ✓ done — component-check photo added; more forthcoming |
 | Firmware-tuning plan (for resumption) | forthcoming — ArduPilot / PX4 evaluation, bench-testing sequence, tethered-hover gate, maiden-flight gate |
 | Outstanding-backer shoot list (private) | forthcoming — internal tracking, not for public posting |
 
@@ -108,8 +108,8 @@ Material exists in personal archives and at my parents' house; it will be added 
 hexacopter/
 ├── README.md                  ← you are here
 ├── LICENSE                    ← CC-BY 4.0
+├── images/                    ← Phantom skyline photos, build photos, gimbal renders
 └── (forthcoming)
-    ├── images/                ← Phantom skyline photos, build photos, gimbal renders
     ├── art-force/             ← selection of the 10 aerial images installed at U of M
     ├── CAD/                   ← gimbal + payload-mount geometry
     ├── BOM/                   ← bill of materials, sourcing notes
